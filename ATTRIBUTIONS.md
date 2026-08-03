@@ -1,0 +1,4 @@
+- Make - [https://en.wikipedia.org/wiki/Make\_(software)](<https://en.wikipedia.org/wiki/Make_(software)>)
+- Zed - https://zed.dev
+- Git - https://git-scm.com/install/windows
+- NASM - https://nasm.us
